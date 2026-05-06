@@ -59,12 +59,6 @@ function CheckoutPage() {
         days: "2 a 4 dias úteis",
         price: 34.9,
       },
-      {
-        id: "pac",
-        name: "PAC",
-        days: "5 a 9 dias úteis",
-        price: 18.5,
-      },
     ];
 
     setShippingOptions(opts);
